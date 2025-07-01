@@ -6,6 +6,8 @@
 
 ---
 
+![image alt](https://github.com/Sivaprasad-creator/Electric-Car-Sales/blob/8723edcf4b560969db83a5f54dc478d1958a0733/Electric.jpg)
+
 ## 📌 Project Overview
 
 This project provides a detailed **Power BI dashboard** for analyzing electric vehicle sales data. It highlights growth trends, popular makes and models, geographic distribution, and the impact of clean fuel incentives. This helps stakeholders understand market dynamics and EV adoption patterns.
