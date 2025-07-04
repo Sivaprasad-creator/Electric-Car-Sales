@@ -42,6 +42,12 @@ This project provides a detailed **Power BI dashboard** for analyzing electric v
 
 ---
 
+## Dashboard Preview
+
+![image alt](https://github.com/Sivaprasad-creator/Electric-Car-Sales/blob/0a5b56ff995687bb22668cffb044089d35706ca1/Electric%20Dashboard.png)
+
+---
+
 ## 📈 Dashboard Visuals
 
 | Insight | Visualization |
